@@ -21,7 +21,7 @@ const Navbar = () => {
           </div>
       </div>
 
-      <div className="bg-blue p-4">
+      <div className="bg-blue p-6 top-0 sticky z-50 drop-shadow-xl">
         <div className="container mx-auto flex justify-between items-center">
           <div className="text-white text-2xl font-medium">
             Little Paw Mobile Grooming
