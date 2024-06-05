@@ -4,8 +4,8 @@ import { Link } from "react-router-dom";
 const Services = () => {
   return (
     <div className="flex flex-col md:flex-row md:1/2 justify-center gap-10 ">
-      <div className="flex py-10">
-        <img src="https://octanecdn.com/forevervetscom/Forever-Vets-Feb-2021-Vaccines-Needed-for-Dog-Grooming-min.jpg" alt="" className="flex w-screen md:w-full" />
+      <div className="flex py-10 justify-center">
+        <img src="https://octanecdn.com/forevervetscom/Forever-Vets-Feb-2021-Vaccines-Needed-for-Dog-Grooming-min.jpg" alt="" className="flex w-5/6 md:w-full" />
       </div>
       <div className="flex flex-col w-fit self-center">
 
